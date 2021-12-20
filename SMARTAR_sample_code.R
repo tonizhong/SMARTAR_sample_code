@@ -1,6 +1,6 @@
 #test file (reduced model: Ken paper)
 options(max.print=500)
-HUB=read.csv("CODIACS.csv",header=T)
+HUB=read.csv("HUB.csv",header=T)
 
 table(HUB$seq)
 
